@@ -1,1 +1,1 @@
-# japanese-vocab
+# Japanese Vocabulary
